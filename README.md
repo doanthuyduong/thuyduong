@@ -45,5 +45,3 @@ Tôi hiểu rằng công việc Product Owner không chỉ đơn thuần là v�
 Như vậy, câu chuyện của tôi trong vai trò Product Owner bắt đầu bằng sự hy vọng, trải qua những thách thức và khó khăn, và kết thúc bằng một cảm xúc hạnh phúc to lớn. Đó là hành trình từ việc tưởng tượng đến thực hiện, từ ý tưởng đến sự thực tế, và từ cảm xúc lo lắng đến cảm xúc tự hào.
 
 Và tôi tin rằng, trong hành trình của mỗi người Product Owner, câu chuyện nào cũng đều đầy những cảm xúc tươi sáng như thế này, đủ để tạo nên những khoảnh khắc đáng nhớ và mang lại niềm vui thực sự.
-
-![image](https://github.com/doanthuyduong/thuyduong/assets/145591658/94c34fa6-f370-4169-950d-19070cc94598)
